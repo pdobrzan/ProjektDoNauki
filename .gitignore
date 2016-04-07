@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Website/bin
+/Website/Content/bootstrap.css
+/Website/App_Data
+/DataTransferObjects/obj/Debug
+/Database
+/.vs
+/Website/obj/Debug
+/Website.BusinessLogic/bin/Debug
+/Website.BusinessLogic/obj/Debug
+/Website.DataAccess/bin/Debug
+/Website.DataAccess/obj/Debug
+/Website.DataTransferObjects/bin/Debug
+/Website.DataTransferObjects/obj/Debug
+/Website.Mapper/bin/Debug
+/Website.Mapper/obj/Debug
