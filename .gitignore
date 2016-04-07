@@ -3,8 +3,6 @@
 ################################################################################
 
 /Website/bin
-/Website/Content/bootstrap.css
-/Website/App_Data
 /DataTransferObjects/obj/Debug
 /Database
 /.vs
